@@ -19,3 +19,6 @@ The release includes fully functioning algorithm RT from paper, that is implemen
 
 ## Team members
 Nikforov Vladislav – done everything.
+
+## Mentor
+Adamanskii Anton Valentinovich
