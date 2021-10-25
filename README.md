@@ -15,7 +15,7 @@ The project is hosted on Digital Ocean.
 ## Release date
 Already released
 
-The release includes fully functioning algorithm RT from paper, that is implemented for Binance cryptocurrency exchange. 
+The release includes fully functioning algorithm RT from paper, that is implemented for Binance cryptocurrency exchange on isolated margin account. 
 
 ## Team members
 Nikforov Vladislav – done everything.
