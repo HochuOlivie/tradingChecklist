@@ -8,7 +8,7 @@ The main and the most obvious is the loss of money risk. It's very hard to make 
 ## Software and hardware
 The software is written in Python programming language.
 The main algorthm is implemented using data science lib "pandas".
-The optimization of hyperparameters of the algorithm is done using basinhopping algorithm from scipy.optimize (minimum of function that has no gradients).
+The optimization of hyperparameters of the algorithm is done using basinhopping algorithm from scipy.optimize (global minimum of function that has no gradients).
 The API is implemented for TestClient and BinanceClient.
 The project is hosted on Digital Ocean.
 
